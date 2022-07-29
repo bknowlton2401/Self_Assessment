@@ -1,1 +1,11 @@
-# Self_Assessment
+# Self Assessment
+
+Going into this project, I was very nervous about my abilities to finish the project.  Initially, due to my lack of confidence, I had trouble thinking of a topic to explore.  The TAs sent out a link with several databases to browse through.  The one that caught my eye was statistics about baseball.  I have always been fascinated by this, since I was a kid.  My dad and I would look at the stats in the newspaper and talk about team stats and individual players stats and discuss what they mean.  With this in mind and looking through the stats on Baseball References, I came up with the question of why are First Round draft picks such a big deal?  Is there a correlation between their career length? The bonus/salary they receive? I had also just wanted “42” , the story about Jackie Robinson who was named Rookie of the Year and who helped lead the Dodgers into the World Series.  I started to wonder if there was a correlation between players who receive the Rookie of the Year award and their team making the playoffs.  After sharing my idea with my team we narrowed down our questions.  From here we talked about our strengths and weaknesses.  Looking at the different roles, we then divided the work up.  Since I had come up with the topic, I created the initial repository and branches and READMe files.
+
+##Team Assessment
+
+I couldn’t have done this project without my team.  Danielle and Lucy were instrumental in Machine Learning and HTML development.  Josh was instrumental in helping us understand some of the different components of Major League Baseball and in developing some of our questions.  Overall we worked well together.  Josh and I were the weakest members of our team in terms of our skill level.  Danielle and Lucy were willing and able to help us out with some of the more technically challenging parts of the project. 
+
+##Project
+
+The results of this project were that players who were picked in the first draft (overall picks 1-7), had a longer career than the rest.  We also determined that first round picks did not have an effect on a team making the playoffs. For example the New York Yankees have been to the playoffs 13 times in the past 15 years and have not had a top 5 first round draft pick. 
